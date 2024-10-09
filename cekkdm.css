@@ -1,0 +1,44 @@
+body {
+    font-family: Poppins;
+    background-color: #96553f;
+}
+.container {
+    display: table;
+    margin: 10% auto;
+    border-radius: 10px;
+    border: 2px solid #e8a68f;
+    width: 400px;
+    background-color: #b57664;
+    text-align: center;
+}
+.cek-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px
+}
+.nama {
+    border-radius: 5px;
+    padding: 15px;
+    width: 240px;
+    border: none;
+}
+.cek {
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 20px;
+}
+.hasil {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.hasil-desc {
+    margin-bottom: 30px;
+    
+}
+.margin-y {
+    margin: 10px 0px;
+}
