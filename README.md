@@ -8,9 +8,6 @@ Aplikasi berbasis web sederhana untuk mengecek Khodam menggunakan HTML, CSS, dan
 - [Fitur](#fitur)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 - [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 
 ## Pendahuluan
 
